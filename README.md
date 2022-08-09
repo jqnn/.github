@@ -31,9 +31,16 @@
 <hr>
 
 <div align="center">
+    <a href="https://twitter.com/JqnnTV">
+        <img align="center" src="https://img.shields.io/twitter/follow/JqnnTV?color=1DA1F2&style=for-the-badge" />
+    </a>
+</div
+
+<hr>
+
+<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=jqnn&theme=github_dark&show_icons=true&locale=en" />
     </a>
 </div>
-<img align="center" src="https://img.shields.io/twitter/url?style=for-the-badge&url=JqnnTV" />
 </p>
