@@ -25,11 +25,6 @@
 
 <h3 align="center">Socials</h3>
 <div align="center">
-    <a href="https://twitter.com/JqnnTV">
-        <img align="center"
-             src="https://img.shields.io/twitter/follow/JqnnTV?color=1DA1F2&style=for-the-badge&label=Twitter"
-             alt="Twitter"/>
-    </a>
     <a href="https://www.youtube.com/c/JqnnTV">
         <img align="center"
              src="https://img.shields.io/youtube/channel/subscribers/UCcm7AA5mSb8f8-S2ncJiePw?color=FF0000&label=YouTube&style=for-the-badge"
@@ -42,6 +37,11 @@
     <a href="https://discord.gg/MYQv9X3fEZ">
         <img align="center" src="https://img.shields.io/discord/883648700025540608?color=7289DA&label=Discord&style=for-the-badge"
              alt="Discord">
+    </a>
+    <a href="https://twitter.com/JqnnTV">
+        <img align="center"
+             src="https://img.shields.io/twitter/follow/JqnnTV?color=1DA1F2&style=for-the-badge&label=Twitter"
+             alt="Twitter"/>
     </a>
 </div>
 
