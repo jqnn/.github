@@ -55,3 +55,6 @@
              alt="Stats"/>
     </a>
 </div>
+
+<br/>
+<hr>
