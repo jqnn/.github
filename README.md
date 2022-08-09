@@ -35,7 +35,5 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=jqnn&theme=github_dark&show_icons=true&locale=en" />
     </a>
 </div>
-
-
-
+<img align="center" src="https://img.shields.io/twitter/url?style=for-the-badge&url=JqnnTV" />
 </p>
