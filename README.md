@@ -25,11 +25,11 @@
     <img align="center" alt="Git" width="26px"
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
     <img align="center" alt="GitHub" width="26px" src="https://icon-library.com/images/github_png63.png"/>
-    
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jqnn&show_icons=true&locale=en" />
-    </a>
-    
 </div>
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+
 </p>
