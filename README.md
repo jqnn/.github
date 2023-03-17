@@ -38,11 +38,6 @@
         <img align="center" src="https://img.shields.io/discord/883648700025540608?color=7289DA&label=Discord&style=for-the-badge"
              alt="Discord">
     </a>
-    <a href="https://twitter.com/JqnnTV">
-        <img align="center"
-             src="https://img.shields.io/twitter/follow/JqnnTV?color=1DA1F2&style=for-the-badge&label=Twitter"
-             alt="Twitter"/>
-    </a>
 </div>
 
 <br/>
