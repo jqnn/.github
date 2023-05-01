@@ -22,13 +22,3 @@
 
 <br/>
 <hr>
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center"
-             src="https://lanyard.cnrad.dev/api/397058272320028672"
-             alt="Discord"/>
-    </a>
-</div>
-<br/>
-<hr>
