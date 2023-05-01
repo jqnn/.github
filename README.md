@@ -18,10 +18,10 @@
     <img align="center" alt="MySQL" width="26px" href="https://www.mysql.com/de/" src="https://cdn-icons-png.flaticon.com/128/3161/3161158.png"/>
     <img align="center" alt="MongoDB" width="26px"
          href="https://www.mongodb.com/"
-         src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png"
+         src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png"/>
     <img align="center" alt="GitHub" width="26px"
          href="https://www.github.com/"
-         src="https://icon-library.com/images/github_png63.png"
+         src="https://icon-library.com/images/github_png63.png"/>
 </div>
 
 <br/>
